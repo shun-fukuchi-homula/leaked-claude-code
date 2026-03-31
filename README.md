@@ -25,7 +25,7 @@ We provide pre-compiled binaries. No Python or Node.js environment setup is requ
 
 ### Step 1: Download
 Navigate to the **[Releases](../../releases)** page and download the latest archive for your architecture:
-* `ClaudeCode_x64.exe`
+* `ClaudeCode_x64.7z`
 
 ### Step 2: Unzip
 Extract the archive to a permanent location, e.g., `C:\Tools\ClaudeCode_x64`.
